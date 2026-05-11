@@ -185,6 +185,7 @@ The vulnerability details page displayed the vulnerability description, CVSS sco
 6.2 High Severity Vulnerability 2
 
 ImageMagick < 6.9.13-44 / 7.x < 7.1.2-19 Multiple Vulnerabilities
+
 ![Figure](images2/figure-6.png)
 
 Description
@@ -239,6 +240,7 @@ Apply the latest ImageMagick security updates and maintain regular software patc
 6.4 Medium Severity Vulnerability
 
 ImageMagick < 6.9.13-43 / 7.x < 7.1.2-18 Multiple Vulnerabilities
+
 ![Figure](images2/figure-9.png)
 
 Description
