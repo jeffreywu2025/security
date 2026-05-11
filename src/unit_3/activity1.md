@@ -8,12 +8,17 @@ Perform a basic scan using standard tools such as traceroute, dig and nslookup. 
 
 Use these basic tools and make a list that details the following information:
 
-How many hops from your machine to your assigned website?
-Which step causes the biggest delay in the route? What is the average duration of that delay?
-What are the main nameservers for the website?
-Who is the registered contact?
-What is the MX record for the website?
-Where is the website hosted?
+-How many hops from your machine to your assigned website?
+
+-Which step causes the biggest delay in the route? What is the average duration of that delay?
+
+-What are the main nameservers for the website?
+
+-Who is the registered contact?
+
+-What is the MX record for the website?
+
+-Where is the website hosted?
 ______________
 1.Introduction
 
