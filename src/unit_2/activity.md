@@ -17,7 +17,7 @@ The aim of this assessment is to perform a baseline vulnerability audit of the Z
 The objectives of the assessment are to identify common web application vulnerabilities within the assigned website, analyse the potential impact of identified weaknesses, evaluate vulnerability information gathered from academic and professional sources, examine recognised vulnerability databases and recommend appropriate mitigation strategies and security controls. The assessment also aims to demonstrate an understanding of vulnerability assessment methodologies and professional security reporting practices.
 
 3. Scope of Assessment
-4. 
+   
 The scope of the assessment was limited to passive inspection and vulnerability research activities conducted against the Zero WebApp Security training environment. The assessment focused on analysing publicly accessible functionality including authentication pages, search functionality, account management features and transaction-related components that may present potential security weaknesses.
 The assessment specifically considered vulnerabilities associated with web application input validation, authentication controls, access control mechanisms, information disclosure and general web application misconfiguration. The methodology involved manual navigation of the application and comparison of observed features against known vulnerability categories identified within academic literature and industry security guidance.
 
@@ -75,7 +75,7 @@ Information disclosure risks were also identified within the application environ
 The findings collectively demonstrate that modern web applications remain exposed to a range of common security vulnerabilities when secure coding practices, input validation controls and authentication mechanisms are insufficiently implemented. The assessment additionally highlights the importance of continuous vulnerability management and secure application development practices.
 
 7. Recommendations
-8. 
+   
 The findings of the assessment indicate that multiple security controls should be implemented in order to reduce the likelihood of successful exploitation and improve the overall security posture of the application.
 
 Input validation mechanisms should be strengthened through the implementation of parameterised database queries and secure server-side validation processes. Parameterised queries significantly reduce the likelihood of SQL injection vulnerabilities by preventing malicious user input from being interpreted as executable database commands.
@@ -88,7 +88,7 @@ Information disclosure risks may be reduced through secure error handling proced
 Regular vulnerability assessments and security reviews should be conducted in order to identify newly emerging threats and maintain an effective security posture. Organisations should additionally implement continuous monitoring, patch management and secure software development lifecycle practices in order to support long-term vulnerability management.
 
 8. Conclusion
-9. 
+   
 This report presented a baseline vulnerability audit and assessment of the Zero WebApp Security training application. The assessment identified several common web application vulnerabilities including potential SQL injection exposure, cross-site scripting risks, authentication weaknesses, access control concerns and information disclosure issues.
 
 The findings of the assessment demonstrate that web applications remain vulnerable to a variety of cyber threats when secure coding practices, authentication controls and vulnerability management procedures are insufficiently implemented. The assessment also highlights the importance of combining manual inspection, academic research and vulnerability intelligence sources when conducting security analysis.
