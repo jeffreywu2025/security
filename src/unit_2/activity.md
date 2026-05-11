@@ -24,7 +24,7 @@ The assessment specifically considered vulnerabilities associated with web appli
 No exploitative penetration testing, denial-of-service activity, password brute-forcing or destructive scanning was conducted during the assessment. The audit was performed solely for academic and educational purposes within an authorised training environment.
 
 4. Methodology
-5. 
+   
 The vulnerability assessment was conducted using a structured methodology designed to support baseline web application security analysis. The methodology combined manual website inspection, literature review and vulnerability intelligence analysis.
 The first stage of the assessment involved manual inspection of the Zero WebApp Security application in order to identify visible functionality, user interaction points and application features that may present security risks. Particular attention was given to login systems, search forms, URL parameters and transaction-based functionality because these areas commonly present vulnerabilities within web applications.
 
