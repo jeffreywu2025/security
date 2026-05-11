@@ -369,16 +369,16 @@ Overall, this assessment improved both technical and analytical cybersecurity sk
  
 12. References
     
-Kali Linux (2025) Kali Linux Documentation. Available at: Kali Linux Documentation (Accessed: 10 May 2026).
+Kali Linux (2025) Kali Linux Documentation. Available at: Kali Linux Documentation.
 
-MITRE (2025) Common Vulnerabilities and Exposures (CVE). Available at: MITRE CVE Database (Accessed: 10 May 2026).
+MITRE (2025) Common Vulnerabilities and Exposures (CVE). Available at: MITRE CVE Database.
 
-National Institute of Standards and Technology (2025) National Vulnerability Database. Available at: NIST NVD(Accessed: 10 May 2026).
+National Institute of Standards and Technology (2025) National Vulnerability Database. Available at: NIST NVD.
 
-Scarfone, K. and Mell, P. (2008) Guide to Intrusion Detection and Prevention Systems (IDPS). National Institute of Standards and Technology Special Publication 800-94. Available at: NIST SP 800-94 (Accessed: 10 May 2026).
+Scarfone, K. and Mell, P. (2008) Guide to Intrusion Detection and Prevention Systems (IDPS). National Institute of Standards and Technology Special Publication 800-94. Available at: NIST SP 800-94.
 
-Tenable (2025) Nessus Essentials. Available at: Tenable Nessus Essentials (Accessed: 10 May 2026).
+Tenable (2025) Nessus Essentials. Available at: Tenable Nessus Essentials.
 
-UTM (2025) UTM Virtual Machines for macOS. Available at: UTM Official Website (Accessed: 10 May 2026).
+UTM (2025) UTM Virtual Machines for macOS. Available at: UTM Official Website.
 
 
