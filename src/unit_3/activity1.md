@@ -15,8 +15,11 @@ The largest latency increase occurred at hop 8, where the average response time 
 DNS analysis using dig identified the authoritative nameservers associated with the domain as ns1.softwaregrp.com, ns2.softwaregrp.com and ns3.softwaregrp.com. These findings suggest that the domain infrastructure is managed through enterprise DNS services associated with OpenText and former Micro Focus infrastructure.
 
 WHOIS analysis identified the registered organisation as Open Text Corporation and the domain registrar as Safenames Ltd, a company specialising in enterprise domain management and online brand protection services. Administrative and registrant information was partially protected through privacy controls, reducing the exposure of sensitive organisational contact information during reconnaissance activities (ICANN, 2025).
+
 MX record analysis did not identify any publicly accessible mail exchange records for the domain. This may indicate that email services are externally managed, intentionally restricted from public exposure or not configured directly for the queried domain. Restricting publicly visible DNS information may reduce infrastructure exposure during reconnaissance activities and limit information available to potential attackers.
+
 WHOIS analysis additionally revealed that DNSSEC protections were not publicly enabled for the domain, as indicated by the DNSSEC: unsigned status. DNSSEC is designed to protect DNS integrity and reduce the risk of DNS spoofing or cache poisoning attacks (Cloudflare, 2025). Although the absence of DNSSEC does not necessarily represent a direct vulnerability, it may theoretically increase exposure to DNS-related attacks.
+
 Overall, the reconnaissance activity demonstrated several characteristics consistent with enterprise-managed infrastructure, including restricted infrastructure visibility, controlled DNS exposure and cloud-hosted routing behaviour.
  
 Reflection
