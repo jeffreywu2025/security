@@ -7,16 +7,19 @@ Step 1: Setup
 Download and install Nessus Essentials (free) from Tenable. 
 Set it up on a VM or host machine (Linux or Windows). 
 Register with a free activation code to unlock scanning features. 
+
 Step 2: Define Scope 
 
 Choose a target machine  
 Record the target’s IP address. 
 Ensure the target machine is on the same network as the Nessus scanner. 
+
 Step 3: Run a Scan 
 
 In Nessus, create a new scan using the Basic Network Scan template. 
 Enter the target IP address. 
 Start the scan and monitor progress from the Nessus dashboard. 
+
 Step 4: Review the Results 
 
 When the scan completes, Nessus will categorise vulnerabilities into: 
@@ -27,6 +30,7 @@ Low
 Informational 
 Note down examples of vulnerabilities in each category (at least one per level). 
 Export the results (HTML or PDF) for your reference. 
+
 Step 5: Write Your Vulnerability Assessment Report 
 
 Your report should include the following sections: 
