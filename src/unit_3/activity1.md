@@ -1,5 +1,20 @@
 Unit 3 Activity 1 – Network Reconnaissance and Basic Scanning
 
+Using the website(s) assigned to you in Unit 1, carry out the following exercises and answer the questions listed below. Ideally, you should complete this task before the next seminar, where it will be discussed further. Your findings/results from this exercise will be utilised specifically for the preparation of the 'Vulnerability Audit and Assessment - Results and Executive Summary' assessment in Unit 6.
+
+Instructions
+
+Perform a basic scan using standard tools such as traceroute, dig and nslookup. Please see these instructions on using traceroute, etc. Refer to this week's reading for further assistance. Do not use ping as it will cause confusion because of shared addresses.
+
+Use these basic tools and make a list that details the following information:
+
+How many hops from your machine to your assigned website?
+Which step causes the biggest delay in the route? What is the average duration of that delay?
+What are the main nameservers for the website?
+Who is the registered contact?
+What is the MX record for the website?
+Where is the website hosted?
+______________
 1.Introduction
 
 This activity involved conducting a basic reconnaissance and infrastructure analysis of the assigned website, zero.webappsecurity.com, using standard network diagnostic and DNS analysis tools available within Kali Linux. The objective of the exercise was to gather network and domain information relating to the target website through non-intrusive scanning techniques including traceroute, dig, nslookup and whois analysis.
