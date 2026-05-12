@@ -1,5 +1,14 @@
 Unit 5 Case Study: Reviewing an Assessment Reporting Template:
 
+Answer the following questions:
+
+-Does this template meet the NCSC stated requirement of preparing a baseline to use as a reference point for pen tests? If not what -changes/amendments would you make?
+
+-What are the two best lessons/examples presented in the report?
+
+-What two things do you think are unnecessary or could be done more effectively?
+
+______________
 Introduction
 
 This essay evaluates whether the PurpleSec Sample Vulnerability Assessment Report can be used as a baseline for future penetration testing in line with National Cyber Security Centre (NCSC) expectations, and it critically examines the report’s strengths, weaknesses and practical lessons in relation to vulnerability analysis and secure-system design. The discussion also links the evaluation to the learning outcomes of identifying and analysing vulnerabilities, selecting appropriate methodologies and tools, and critically appraising security solutions for managing risk (NCSC, 2024; NCSC, 2026a).
